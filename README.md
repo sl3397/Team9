@@ -1,6 +1,6 @@
 # Price Prediction for Airbnb in NYC
 
-Project Name: Price Prediction for Airbnb in NYC （https://github.com/sl3397/Team9）
+Project Name: Price Prediction for Airbnb in NYC https://github.com/sl3397/Team9
 
 Project type: Data analysis
 
