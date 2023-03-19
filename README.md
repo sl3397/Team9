@@ -1,10 +1,13 @@
-# Team9
-Haoyang Li (hl2237), Shuwen Liang (sl3397), Sichen Lyu (sl2656)
+# Price Prediction for Airbnb in NYC
 
-Project Repo for ORIE5741
+Project Name: Price Prediction for Airbnb in NYC （https://github.com/sl3397/Team9.git）
 
-Topic for project: Price Prediction for Airbnb in NYC
+Project type: Data analysis
 
-Data comes from Kaggle:
+Group Members: Haoyang Li (hl2237), Shuwen Liang (sl3397), Sichen Lyu (sl2656)
 
-NYC Airbnb pricing https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+Course code: 5741
+
+
+Data link: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+
